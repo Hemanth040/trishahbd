@@ -161,7 +161,7 @@ new TypeIt("#teks1", {
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Dengan ataupun tanpaku, semoga semesta selalu membahagiakan kamu bagimanapun caranya.", " ", "barakallah fi umrik, terima kasih sudah bertahan sampai sejauh ini.", " ", "- Wish all you the best"],
+  strings: ["You are always precious and special to me love uh myPanda 🐼 ❤️.  You have always been my mostt important and the person whom I feel that I should have for my  whole life🎀🫂"],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
@@ -446,3 +446,4 @@ function confetti() {
 
   if (!onlyOnKonami) poof();
 };
+
